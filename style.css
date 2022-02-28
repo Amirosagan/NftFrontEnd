@@ -107,7 +107,7 @@ body {
 }
 
 .line {
-    width: 90%;
+    width: 95%;
     background-color: var(--Very-dark-blue-line);
     height: 2px;
 }
